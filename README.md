@@ -1,5 +1,17 @@
-Project Boiler Plate for UWyo COSC 4950/5
+Tychel for UWyo COSC 4950/5
 =========================================
+Tylor Connely
+Christopher Pool
+Eli Meena
+
+For your health! 
+
+/* project description goes here */
+
+
+
+
+
 
 This is nothing more than a directory structure to use for starting a new project.  
 It contains the following folders:
