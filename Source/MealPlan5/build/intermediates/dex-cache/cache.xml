@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\FinalProject\MealPlan5\app\libs\android-sqlite-asset-helper.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="20f039a3336c18f93cfddfa1a49ce91a55361c40">
+        <dex dex="H:\FinalProject\MealPlan5\app\build\intermediates\pre-dexed\debug\android-sqlite-asset-helper-954a9905296502241c2cee427171e5228031e0af.jar" />
+    </item>
+    <item
+        jar="C:\Users\cpool\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="H:\FinalProject\MealPlan5\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-cf6e36821d9338a143743c2a86a03a48b84fced6.jar" />
+    </item>
+
+</items>
